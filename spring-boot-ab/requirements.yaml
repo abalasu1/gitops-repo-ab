@@ -1,4 +1,4 @@
 dependencies:
 - name: spring-boot-ab
   version: 0.0.1
-  repository: https://artifactory-artifactory:8081/generic-local/dev-ab/
+  repository: https://artifactory-artifactory:8081/artifactory/generic-local/dev-ab/
