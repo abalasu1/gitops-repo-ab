@@ -1,0 +1,4 @@
+# replace <app-chart-name> with the value given in requirements.yaml
+sprint-boot-ab:
+  # provides values from the values.yaml in the <app-chart-name> helm chart
+  replicaCount: 1
