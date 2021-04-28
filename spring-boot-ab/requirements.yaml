@@ -1,5 +1,4 @@
 dependencies:
-- name: mongodb
- version: 3.0.4
- repository: https://kubernetes-charts.storage.googleapis.com/
- condition: mongodb.enabled
+- name: redis
+  version: 8.1.12
+  repository: https://charts.bitnami.com/bitnami
