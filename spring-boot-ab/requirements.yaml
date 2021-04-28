@@ -1,4 +1,4 @@
 dependencies:
 - name: redis
-  version: 8.1.12
+  version: 14.1.0
   repository: https://charts.bitnami.com/bitnami
