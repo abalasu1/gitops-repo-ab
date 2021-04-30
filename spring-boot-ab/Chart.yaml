@@ -2,6 +2,6 @@ version: 0.1.0
 apiVersion: v2
 name: spring-boot-ab
 dependencies:
-- name: redis
-  version: "14.1.0"
+- name: nginx
+  version: "8.8.5"
   repository: "https://charts.bitnami.com/bitnami"  
